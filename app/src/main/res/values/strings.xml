@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LOCleaner</string>
+    <string name="app_description">라스트오리진(LastOrigin)의 업데이트 후에도 이전 버전의 파일이 남아있어 용량을 차지하는 찌꺼기를 청소하기 위한 도구입니다.</string>
+    <string name="app_require_saf_permission">※ Android 10 이상의 환경에서는 저장소에 접근하기 위한 권한이 필요합니다. 게임이 설치된 저장소의 권한을 모두 추가해주세요.</string>
+    <string name="tip_auto_selected">※ 청소할 대상이 자동으로 인식되어 선택되었습니다.</string>
+    <string name="tip_saf_selected">※ 권한이 획득된 저장소의 청소할 대상이 자동으로 인식되어 선택되었습니다.</string>
+
+    <string name="platform_onestore">원스토어</string>
+    <string name="platform_playstore">플레이스토어</string>
+    <string name="platform_playstore_jp">플레이스토어 (JP서버)</string>
+
+    <string name="clean_btn">청소!</string>
+
+    <string name="CLEAN_TARGET_NOT_EXISTS">%s 존재하지 않음</string>
+    <string name="CLEAN_DIRECTORY_REMOVED">%s 삭제 (%s)</string>
+    <string name="CLEAN_TARGET_CLEANED">%s 정리됨 (총 %s)</string>
+    <string name="CLEAN_ALL_CLEANED">모든 찌꺼기 정리됨 (총 %s)</string>
+
+    <string name="GRANT_PERIMSSION">저장소 권한 추가</string>
+    <string name="GRANT_PERMISSION_TITLE">추가 권한 필요</string>
+    <string name="GRANT_PERMISSION_MESSAGE">Cleaner가 저장소에 접근하기 위해서는 권한이 필요합니다. 저장소의 가장 상위에서 사용하기를 눌러 권한을 부여해주세요.</string>
+    <string name="GRANT_PERMISSION_OK">네, 알겠습니다</string>
+    <string name="GRANT_INVALID_PATH">올바르지 않은 경로를 요청했습니다. 다시 시도해주세요.</string>
+    <string name="GRANT_FAILED">권한을 얻지 못했습니다. 다시 시도해주세요.</string>
+    <string name="GRANT_SUCCESSFULLY">성공적으로 권한을 획득했습니다.</string>
+    <string name="GRANT_ALREADY_GRANTED">이미 권한을 획득한 저장소입니다.</string>
+</resources>
